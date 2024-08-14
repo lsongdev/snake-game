@@ -1,0 +1,13 @@
+@import url(https://lsong.org/css/stylesheet.css);
+
+body {
+  text-align: center;
+}
+
+.game-container {
+  text-align: center;
+}
+
+#game-board {
+  margin: 0 auto;
+}
